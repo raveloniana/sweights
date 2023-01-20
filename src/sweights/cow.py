@@ -1,4 +1,6 @@
-"""Implementation of the COW class."""
+"""Implementation of the COW class.
+Author: R. W. K.
+"""
 
 from scipy.stats import uniform
 from scipy.integrate import quad
